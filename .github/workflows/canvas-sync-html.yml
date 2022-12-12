@@ -1,3 +1,4 @@
+  puts "Running my_method"
 name: Sync with Canvas HTML
 
 on:
